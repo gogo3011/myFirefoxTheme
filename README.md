@@ -1,5 +1,7 @@
 # myFirefoxTheme
 
+Not actually mine, credit goes to whoever wrote that 3 years ago when I found it. Just uploading it here so I don't lose it somehow.
+
 ```
 #TabsToolbar {
   visibility: collapse !important;
